@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTut", "CSharpTut\CSharpTut.csproj", "{5D30EF89-FCD2-43B3-A141-DF46AD49743B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTut", "CSharpTut\CSharpTut.csproj", "{5D30EF89-FCD2-43B3-A141-DF46AD49743B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTutorial", "BankTutorial\BankTutorial.csproj", "{6CAA99F5-2775-422A-A8E4-54F1F83DFB1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5D30EF89-FCD2-43B3-A141-DF46AD49743B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D30EF89-FCD2-43B3-A141-DF46AD49743B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D30EF89-FCD2-43B3-A141-DF46AD49743B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAA99F5-2775-422A-A8E4-54F1F83DFB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAA99F5-2775-422A-A8E4-54F1F83DFB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAA99F5-2775-422A-A8E4-54F1F83DFB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAA99F5-2775-422A-A8E4-54F1F83DFB1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
